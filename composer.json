@@ -1,5 +1,5 @@
 {
-    "name": "mybuilder/google-api-php-client",
+    "name": "edwinlove/google-api-php-client",
     "type": "library",
     "description": "Google API library for PHP",
     "keywords": ["google","gdata"],
